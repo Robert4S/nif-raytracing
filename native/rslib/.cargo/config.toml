@@ -1,0 +1,3 @@
+rustflags = ["-C", "target-feature=+sse2,+sse3,+ssse3,+sse4.1,+sse4.2,+avx,+avx2,+fma,+avx512f"]
+
+

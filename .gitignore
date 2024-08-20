@@ -1,0 +1,5 @@
+*.beam
+*.ez
+/build
+/native/rslib/target
+erl_crash.dump
